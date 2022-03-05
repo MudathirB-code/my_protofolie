@@ -1,0 +1,134 @@
+{
+  "main": {
+    "name": "Mudathir musa",
+    "occupation": "Mudathir B-code",
+    "description": "a web developer & Desktop applications are far more than a job for me.",
+    "image": "face.png",
+    "bio": "Hi there! I am Mudathir..! and I am a web developer. I've been coding for over 3 years now. As a Full Stack developer ,The programming and web design are far more than a job for me . Thanks to my extensive technical knowledge , I can implement my creative ideas very well , so that I can offer tailor made solutions for customers.",
+    "contactmessage": "Get in touch with me!",
+    "email": "mudathirjava204@gmail.com",
+    "phone": "+249 119444623",
+    "address": {
+      "street": "56 area. omdurman",
+      "city": "Sudan",
+      "state": "Khartom",
+      "zip": "..."
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCEplO-pcUCUoBGuEIk7WJhA",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/mand.malso",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/mudathir-musa-563481210/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/mudathir_musa/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/MudathirB-code",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Gezira College of Technology",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2020",
+        "description": "Graduated very Good"
+      }
+    ],
+    "work": [
+      {
+        "company": "PAPA",
+        "title": "Founder and CEO",
+        "years": "May 2019 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "java",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Airbnb clone (React JS, Next js)",
+        "category": "",
+        "image": "airbnb.PNG",
+        "url": "https://airbnb-clone-two-kappa.vercel.app/"
+      },
+      {
+        "title": "Google clone (React JS, Next js)",
+        "category": "I'am using Google api the this project...",
+        "image": "google-clone.PNG",
+        "url": "https://github.com/MudathirB-code/google-clone-Next.js/tree/main/google-clone"
+      },
+      {
+        "title": "العطاءات الحكومية",
+        "category": "",
+        "image": "gezira.png",
+        "url": "https://gazir-search.vercel.app/"
+      },
+      {
+        "title": "Amazon-clone",
+        "category": "with an amazing technical like Next js I trying to build an E-commerce website like Amazon...",
+        "image": "amazon.png",
+        "url": "https://amazon-ec-clone.vercel.app/"
+      },
+      {
+        "title": "My portfolio",
+        "category": "",
+        "image": "myprofile.png",
+        "url": "https://amazon-ec-clone.vercel.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "That Mudathir musa Must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Waleed"
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
