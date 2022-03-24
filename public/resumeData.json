@@ -90,7 +90,7 @@
       {
         "title": "Airbnb clone (React JS, Next js)",
         "category": "",
-        "image": "airbnb.PNG",
+        "image": "airbnb-clone.PNG",
         "url": "https://airbnb-clone-two-kappa.vercel.app/"
       },
       {
@@ -100,22 +100,28 @@
         "url": "https://github.com/MudathirB-code/google-clone-Next.js/tree/main/google-clone"
       },
       {
-        "title": "العطاءات الحكومية",
+        "title": "government tenders",
         "category": "",
-        "image": "gezira.png",
+        "image": "gezira.PNG",
         "url": "https://gazir-search.vercel.app/"
       },
       {
         "title": "Amazon-clone",
         "category": "with an amazing technical like Next js I trying to build an E-commerce website like Amazon...",
-        "image": "amazon.png",
+        "image": "amazon.PNG",
         "url": "https://amazon-ec-clone.vercel.app/"
       },
       {
         "title": "My portfolio",
         "category": "",
-        "image": "myprofile.png",
-        "url": "https://amazon-ec-clone.vercel.app/"
+        "image": "myprofile.PNG",
+        "url": ""
+      },
+      {
+        "title": "Company website",
+        "category": "",
+        "image": "company.PNG",
+        "url": ""
       }
     ]
   },
@@ -123,7 +129,7 @@
     "testimonials": [
       {
         "text": "That Mudathir musa Must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Waleed"
+        "user": "Mr.Ahmed"
       },
       {
         "text": "",
